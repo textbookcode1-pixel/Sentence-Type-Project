@@ -1,7 +1,7 @@
-![프로젝트 대표 이미지](제목 없음1.png)
+![프로젝트 대표 이미지](banner.png)
 
-# Ai-Hub
+# AI-Hub 문장 유형 판단 데이터셋
 
-아래 링크를 눌러 조사 사이트로 이동해 주세요.
+한국어 문장의 추론, 예측 등 문장 유형을 판단하는 데이터셋입니다.
 
-[AI-Hub 데이터셋 바로가기](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71486)
+[AI-Hub 데이터셋 바로가기](https://www.aihub.or.kr/aihubdata/data/view.do?dataSetSn=71486)
